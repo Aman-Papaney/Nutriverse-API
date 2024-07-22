@@ -13,7 +13,8 @@ API uses JSON Web Tokens (JWT) for authentication.
 
 ### Register
 
-**Endpoint:** /register \n
+**Endpoint:** /register 
+
 **Method:** POST 
 **Request Body:**
 
