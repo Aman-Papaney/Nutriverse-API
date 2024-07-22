@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Chole Bhature",
+        "carbohydrates": 80,
+        "protein": 12,
+        "fats": 20,
+        "calories": 600,
+        "fiber": 10
+    },
+    {
+        "name": "Paneer Tikka",
+        "carbohydrates": 10,
+        "protein": 20,
+        "fats": 15,
+        "calories": 250,
+        "fiber": 2
+    },
+    {
+        "name": "Biryani",
+        "carbohydrates": 60,
+        "protein": 15,
+        "fats": 18,
+        "calories": 500,
+        "fiber": 5
+    },
+    {
+        "name": "Butter Chicken",
+        "carbohydrates": 15,
+        "protein": 25,
+        "fats": 35,
+        "calories": 500,
+        "fiber": 2
+    },
+    {
+        "name": "Dal Makhani",
+        "carbohydrates": 40,
+        "protein": 15,
+        "fats": 15,
+        "calories": 350,
+        "fiber": 10
+    },
+    {
+        "name": "Aloo Gobi",
+        "carbohydrates": 20,
+        "protein": 4,
+        "fats": 8,
+        "calories": 150,
+        "fiber": 5
+    },
+    {
+        "name": "Samosa",
+        "carbohydrates": 45,
+        "protein": 5,
+        "fats": 15,
+        "calories": 250,
+        "fiber": 3
+    },
+    {
+        "name": "Rogan Josh",
+        "carbohydrates": 12,
+        "protein": 30,
+        "fats": 25,
+        "calories": 400,
+        "fiber": 2
+    },
+    {
+        "name": "Palak Paneer",
+        "carbohydrates": 15,
+        "protein": 20,
+        "fats": 20,
+        "calories": 350,
+        "fiber": 5
+    },
+    {
+        "name": "Idli",
+        "carbohydrates": 30,
+        "protein": 6,
+        "fats": 1,
+        "calories": 120,
+        "fiber": 2
+    },
+    {
+        "name": "Dosa",
+        "carbohydrates": 35,
+        "protein": 7,
+        "fats": 10,
+        "calories": 180,
+        "fiber": 3
+    },
+    {
+        "name": "Kachori",
+        "carbohydrates": 55,
+        "protein": 6,
+        "fats": 20,
+        "calories": 300,
+        "fiber": 4
+    },
+    {
+        "name": "Pani Puri",
+        "carbohydrates": 30,
+        "protein": 4,
+        "fats": 8,
+        "calories": 200,
+        "fiber": 2
+    },
+    {
+        "name": "Rajma",
+        "carbohydrates": 45,
+        "protein": 15,
+        "fats": 10,
+        "calories": 350,
+        "fiber": 8
+    },
+    {
+        "name": "Bhindi Masala",
+        "carbohydrates": 15,
+        "protein": 3,
+        "fats": 8,
+        "calories": 120,
+        "fiber": 4
+    },
+    {
+        "name": "Chana Masala",
+        "carbohydrates": 50,
+        "protein": 15,
+        "fats": 10,
+        "calories": 300,
+        "fiber": 10
+    },
+    {
+        "name": "Pulao",
+        "carbohydrates": 55,
+        "protein": 8,
+        "fats": 12,
+        "calories": 350,
+        "fiber": 4
+    },
+    {
+        "name": "Korma",
+        "carbohydrates": 20,
+        "protein": 20,
+        "fats": 25,
+        "calories": 400,
+        "fiber": 3
+    },
+    {
+        "name": "Makki di Roti",
+        "carbohydrates": 45,
+        "protein": 7,
+        "fats": 5,
+        "calories": 200,
+        "fiber": 5
+    },
+    {
+        "name": "Dal Tadka",
+        "carbohydrates": 40,
+        "protein": 10,
+        "fats": 12,
+        "calories": 300,
+        "fiber": 8
+    },
+    {
+        "name": "Pesarattu",
+        "carbohydrates": 50,
+        "protein": 10,
+        "fats": 12,
+        "calories": 300,
+        "fiber": 6
+    }
+]
