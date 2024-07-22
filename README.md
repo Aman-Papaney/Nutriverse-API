@@ -16,6 +16,7 @@ API uses JSON Web Tokens (JWT) for authentication.
 **Endpoint:** /register 
 
 **Method:** POST 
+
 **Request Body:**
 
 JSON
@@ -57,7 +58,9 @@ JSON
 ### Login
 
 **Endpoint:** /login 
+
 **Method:** POST 
+
 **Request Body:**
 
 JSON
@@ -96,8 +99,10 @@ JSON
 ### Get Foods
 
 **Endpoint:** /foods 
+
 **Method:** GET
- **Response:**
+
+**Response:**
 
 JSON
 
@@ -119,8 +124,10 @@ JSON
 #### Get Food by ID
 
 **Endpoint:** /foods/{name}
- **Method:** GET 
- **Response:**
+
+**Method:** GET 
+
+**Response:**
 
 JSON
 
@@ -140,7 +147,9 @@ JSON
 #### Create a Food Entry
 
 **Endpoint:** /track 
+
 **Method:** POST 
+
 **Request Body:**
 
 JSON
@@ -163,8 +172,10 @@ JSON
 ```
 ### Get Food Entries
 
-**Endpoint:** /track/{user_id}/date
+**Endpoint:** /track/{user_id}/{date}
+
 **Method:** GET
+
 **Response:**
 
 JSON
